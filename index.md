@@ -13,7 +13,7 @@
     <br>
     <br>
     <font> MID NIGHT LAND </font>
-    <p>今世紀最大の恐怖をあなたに</p>
+    <a>今世紀最大の恐怖をあなたに</a>
     
   </center>
   
