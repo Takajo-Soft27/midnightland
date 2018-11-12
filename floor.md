@@ -5,7 +5,10 @@
   <body>
   
   <center>
- 
+  
+   <div class="textcenter">
+    <img src="S__53706754.jpg" alt="マップ" />
+   </div>
  
  
   </center>
