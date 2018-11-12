@@ -7,17 +7,19 @@
 <meta charset="UTF-8"> 
 
 
-<title>TICKET</title> 
+<title>Ticket</title> 
+<style>
 
-
+</style>
 </head> 
 
 
 <body> 
+ <div>
  <h1>TICKET</h1>
 
 
- <table border="1" align="center">
+ <table class="toumei" border="1" align="center">
  <tr> 
 
  <caption>料金表</caption>
@@ -27,7 +29,7 @@
       <th>平日</th> 
 
 
-      <th>土日祝</th> 
+      <th class="holiday">土日祝</th> 
 
 
     </tr> 
@@ -64,7 +66,7 @@
 
 
   </table>  
-
+<div>
 
   
 
