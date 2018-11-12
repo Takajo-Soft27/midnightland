@@ -17,12 +17,10 @@
  <h1>TICKET</h1>
 
 
- <table border="1" width="50%"> 
+ <table border="1" align="center">
+ <tr> 
 
-
-    <tr> 
-
-
+ <caption>料金表</caption>
       <th> </th> 
 
 
