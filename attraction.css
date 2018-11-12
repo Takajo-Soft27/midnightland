@@ -12,3 +12,7 @@ p {
 footer {
   color: #ffffff;
 }
+
+.under {
+  border-bottom: solid 3px #ffffff;
+}
