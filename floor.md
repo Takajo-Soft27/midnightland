@@ -7,6 +7,7 @@
   <center>
   
     <p>園内マップ</P>
+    <br>
   
   
    <div class="textcenter">
