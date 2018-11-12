@@ -4,6 +4,8 @@
   
   <body>
   
+  
+    <!-- 
     <input type="checkbox" id="cp_navimenuid">
     <label class="menu" for="cp_navimenuid">
 
@@ -25,6 +27,14 @@
     </ul>
 
     </label>
+    
+    -- >
+    
+    <headmenu>ATTRACTION</headmenu>
+    <headmenu>MAP</headmenu>
+    <headmenu>ACCESS</headmenu>
+    <headmenu>FOOD&GOODS</headmenu>
+    <headmenu>TICKET</headmenu>
    
   </body>
   
