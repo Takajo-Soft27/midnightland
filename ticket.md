@@ -14,6 +14,7 @@
 
 
 <body> 
+ <h1>TICKET</h1>
 
 
  <table border="1" width="50%"> 
