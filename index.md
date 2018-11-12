@@ -5,7 +5,7 @@
   <body>
   
     <ul>
-      <li><a href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</a></li>
+      <!-- <<li><a href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</a></li> -->
       <li><a href="https://takajo-soft19.github.io/midnightland/floor">MAP</a></li>
       <li><a href="https://takajo-soft19.github.io/midnightland/access">ACCESS</a></li>
       <li><a href="https://takajo-soft19.github.io/midnightland/foodgoods">FOOD&GOODS</a></li>
