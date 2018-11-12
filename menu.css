@@ -34,7 +34,7 @@ a {
   padding: 0 0 5px;
   position: relative;
   text-decoration: none;
-  color: #ffffff
+  color: #ffffff;
 }
 a::before,
 a::after {
