@@ -62,3 +62,7 @@ a:hover::before,
 a:hover::after {
   width: 50%;
 }
+
+#font {
+  font-family: 'Nosifer', cursive;
+}
