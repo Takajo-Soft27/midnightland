@@ -98,3 +98,11 @@ body {
 #cp_navimenuid:checked ~ .menu > .menubar {
 	display: none;
 }
+
+
+.headmenu{
+	width: 60px;
+	height: 60px;
+	margin: 30px auto;
+	background-color: #000000;
+}
