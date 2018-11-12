@@ -59,7 +59,7 @@
       <td class="c">6000円</td> 
 
 
-      <tdclass="d">7000円</td> 
+      <td class="d">7000円</td> 
 
 
     </tr> 
