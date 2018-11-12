@@ -1,7 +1,7 @@
 body {
   
   /* 画像ファイルの指定 */
-  background-image: url(風景3.jpg); 
+  background-image: url(風景1.jpg); 
    
   /* 画像を常に天地左右の中央に配置 */
   background-position: center center;
@@ -38,4 +38,25 @@ a {
 }
 a:hover {
   text-decoration: none;
+}
+a::before,
+a::after {
+  border-bottom: solid 2px #f00;
+  bottom: 0;
+  content: "";
+  display: block;
+  position: absolute;
+  transition: all .3s ease;
+  -webkit-transition: all .3s ease;
+  width: 0;
+}
+a::before {
+  left: 50%;
+}
+a::after {
+  right: 50%;
+}
+a:hover::before,
+a:hover::after {
+  width: 50%;
 }
