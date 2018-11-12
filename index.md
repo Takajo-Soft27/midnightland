@@ -4,11 +4,11 @@
   
   <body>
     
-    <headmenu>ATTRACTION</headmenu>
-    <headmenu>MAP</headmenu>
-    <headmenu>ACCESS</headmenu>
-    <headmenu>FOOD&GOODS</headmenu>
-    <headmenu>TICKET</headmenu>
+    <h1>ATTRACTION</h1>
+    <h1>MAP</h1>
+    <h1>ACCESS</h1>
+    <h1>FOOD&GOODS</h1>
+    <h1>TICKET</h1>
    
   </body>
   
