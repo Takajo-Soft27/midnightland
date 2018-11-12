@@ -29,18 +29,19 @@ li {
   padding: 5px;
 }
 
-a {
+menu {
   display: block;
   padding: 0 0 5px;
   position: relative;
   text-decoration: none;
   color: #ffffff;
+  font-size: x-large;
 }
-a:hover {
+menu:hover {
   text-decoration: none;
 }
-a::before,
-a::after {
+menu::before,
+menu::after {
   border-bottom: solid 2px #ffffff;
   bottom: 0;
   content: "";
@@ -50,13 +51,13 @@ a::after {
   -webkit-transition: all .3s ease;
   width: 0;
 }
-a::before {
+menu::before {
   left: 50%;
 }
-a::after {
+menu::after {
   right: 50%;
 }
-a:hover::before,
-a:hover::after {
+menu:hover::before,
+menu:hover::after {
   width: 50%;
 }
