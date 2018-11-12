@@ -65,4 +65,6 @@ a:hover::after {
 
 font {
   font-family: 'Nosifer', cursive;
+  color: #ffffff;
+  font-size: xx-large;
 }
