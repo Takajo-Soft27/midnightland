@@ -6,14 +6,15 @@
   
   <center>
   
+    <p>園内マップ</P>
+  
+  
    <div class="textcenter">
     <img src="S__53706754.jpg" alt="マップ" />
    </div>
  
  
   </center>
-  
-  
   
   
   <div id="footer"> 
