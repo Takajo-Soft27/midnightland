@@ -5,11 +5,11 @@
   <body>
   
     <ul>
-      <li><menu href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</menu></li>
-      <li><menu href="https://takajo-soft19.github.io/midnightland/floor">MAP</menu></li>
-      <li><menu href="https://takajo-soft19.github.io/midnightland/access">ACCESS</menu></li>
-      <li><menu href="https://takajo-soft19.github.io/midnightland/foodgoods">FOOD&GOODS</menu></li>
-      <li><menu href="https://takajo-soft19.github.io/midnightland/ticket">TICKET</menu></li>
+      <li><a href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</a></li>
+      <li><a href="https://takajo-soft19.github.io/midnightland/floor">MAP</a></li>
+      <li><a href="https://takajo-soft19.github.io/midnightland/access">ACCESS</a></li>
+      <li><a href="https://takajo-soft19.github.io/midnightland/foodgoods">FOOD&GOODS</a></li>
+      <li><a href="https://takajo-soft19.github.io/midnightland/ticket">TICKET</a></li>
     </ul>
 
    
