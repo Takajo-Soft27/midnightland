@@ -30,7 +30,7 @@ li {
   padding: 30px;
 }
 
-menu {
+a {
   display: block;
   padding: 0 0 5px;
   position: relative;
@@ -38,11 +38,11 @@ menu {
   color: #ffffff;
   font-size: x-large;
 }
-menu:hover {
+a:hover {
   text-decoration: none;
 }
-menu::before,
-menu::after {
+a::before,
+a::after {
   border-bottom: solid 2px #ffffff;
   bottom: 0;
   content: "";
@@ -52,13 +52,13 @@ menu::after {
   -webkit-transition: all .3s ease;
   width: 0;
 }
-menu::before {
+a::before {
   left: 50%;
 }
-menu::after {
+a::after {
   right: 50%;
 }
-menu:hover::before,
-menu:hover::after {
+a:hover::before,
+a:hover::after {
   width: 50%;
 }
