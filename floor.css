@@ -1,11 +1,12 @@
 body {
-
   background-color: #000000;  
-  
 }
 
-footer {
+.textcenter {
+  text-align: center;
+}
 
-  color: #ffffff;
-  
+
+footer {
+  color: #ffffff;  
 }
