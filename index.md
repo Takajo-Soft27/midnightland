@@ -5,6 +5,8 @@
   
   <body>
   
+   <center>
+  
     <ul>
       <li><a href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</a></li>
       <li><a href="https://takajo-soft19.github.io/midnightland/floor">MAP</a></li>
@@ -18,6 +20,8 @@
     <br>
     <br>
     <font> MID NIGHT LAND </font>
+    
+   </center>
    
   </body>
   
