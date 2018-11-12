@@ -30,7 +30,7 @@
       <li><a href="https://takajo-soft19.github.io/midnightland/ticket">TICKET</a></li>
     </ul>
   
-　<h4> このホームページは、ソフトウェア工学の授業の一環で作成されたものでありフィクションです。</h4>
+　 このホームページは、ソフトウェア工学の授業の一環で作成されたものでありフィクションです。
   
   </div>
    
