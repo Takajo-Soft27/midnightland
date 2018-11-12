@@ -3,12 +3,15 @@
   <link rel="stylesheet" type="text/css" href="menu.css">
   
   <body>
-    
-    <p class="color_white">ATTRACTION</p>
-    <p class="color_white">MAP</p>
-    <p class="color_white">ACCESS</p>
-    <p class="color_white">FOOD&GOODS</p>
-    <p class="color_white">TICKET</p>
+  
+    <ul>
+      <li><menu  href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</menu></li>
+      <li><menu  href="https://takajo-soft19.github.io/midnightland/floor">MAP</menu></li>
+      <li><menu  href="https://takajo-soft19.github.io/midnightland/access">ACCESS</menu></li>
+      <li><menu  href="https://takajo-soft19.github.io/midnightland/foodgoods">FOOD&GOODS</a></li>
+      <li><menu  href="https://takajo-soft19.github.io/midnightland/ticket">TICKET</a></li>
+    </ul>
+
    
   </body>
   
