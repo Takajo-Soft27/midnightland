@@ -26,7 +26,7 @@
       <th> </th> 
 
 
-      <th>平日</th> 
+      <th="weekday">平日</th> 
 
 
       <th class="holiday">土日祝</th> 
