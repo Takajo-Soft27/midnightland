@@ -20,6 +20,7 @@ body {
   
   
 }
+
 ul {
   display: flex;
   list-style: none;
@@ -27,14 +28,16 @@ ul {
 li {
   padding: 5px;
 }
-menu {
+
+a {
   display: block;
   padding: 0 0 5px;
   position: relative;
   text-decoration: none;
+  color: #ffffff
 }
-menu::before,
-menu::after {
+a::before,
+a::after {
   border-bottom: solid 2px #f00;
   bottom: 0;
   content: "";
@@ -44,13 +47,13 @@ menu::after {
   -webkit-transition: all .3s ease;
   width: 0;
 }
-menu::before {
+a::before {
   left: 50%;
 }
-menu::after {
+a::after {
   right: 50%;
 }
-menu:hover::before,
-menu:hover::after {
+a:hover::before,
+a:hover::after {
   width: 50%;
 }
