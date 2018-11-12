@@ -4,11 +4,11 @@
   
   <body>
     
-    <h1>ATTRACTION</h1>
-    <h1>MAP</h1>
-    <h1>ACCESS</h1>
-    <h1>FOOD&GOODS</h1>
-    <h1>TICKET</h1>
+    <p class="color_white">ATTRACTION</p>
+    <p class="color_white">MAP</p>
+    <p class="color_white">ACCESS</p>
+    <p class="color_white">FOOD&GOODS</p>
+    <p class="color_white">TICKET</p>
    
   </body>
   
