@@ -20,7 +20,7 @@
   
   <div id="footer"> 
   
-  　<p> このホームページは、ソフトウェア工学の授業の一環で作成されたものでありフィクションです。</p>
+  
   
     <ul>
       <li><a href="https://takajo-soft19.github.io/midnightland/attraction">ATTRACTION</a></li>
@@ -30,7 +30,7 @@
       <li><a href="https://takajo-soft19.github.io/midnightland/ticket">TICKET</a></li>
     </ul>
   
-
+　<p1> このホームページは、ソフトウェア工学の授業の一環で作成されたものでありフィクションです。</p1>
   
   </div>
    
