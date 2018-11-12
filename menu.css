@@ -101,9 +101,8 @@ body {
 
 
 
-headmenu{
-	width: 60px;
-	height: 60px;
-	margin: 30px auto;
-	color: #000000;
+h1{
+  font-size: 20px,
+  color: #000000;
 }
+
