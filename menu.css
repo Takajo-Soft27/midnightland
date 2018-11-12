@@ -24,9 +24,10 @@ body {
 ul {
   display: flex;
   list-style: none;
+  text-align: center;
 }
 li {
-  padding: 5px;
+  padding: 15px;
 }
 
 menu {
