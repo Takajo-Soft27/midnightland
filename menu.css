@@ -36,7 +36,6 @@ a {
   position: relative;
   text-decoration: none;
   color: #ffffff;
-  font-size: 100px;
 }
 a:hover {
   text-decoration: none;
@@ -66,5 +65,5 @@ a:hover::after {
 font {
   font-family: 'Nosifer', cursive;
   color: #ffffff;
-  font-size: xx-large;
+  font-size: 120px;
 }
