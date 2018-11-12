@@ -1,6 +1,7 @@
 <html>
   
   <link rel="stylesheet" type="text/css" href="menu.css">
+  <link href="https://fonts.googleapis.com/css?family=Nosifer" rel="stylesheet"> 
   
   <body>
   
@@ -12,6 +13,11 @@
       <li><a href="https://takajo-soft19.github.io/midnightland/ticket">TICKET</a></li>
     </ul>
 
+   
+    <br>
+    <br>
+    <br>
+    <font> MID NIGHT LAND </font>
    
   </body>
   
