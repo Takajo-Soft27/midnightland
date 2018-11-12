@@ -36,29 +36,3 @@ a {
   text-decoration: none;
   color: #ffffff;
 }
-/*
-a:hover { 
-  text-decoration: none;
-}
-a::before,
-a::after {
-  border-bottom: solid 2px #f00;
-  bottom: 0;
-  content: "";
-  display: block;
-  position: absolute;
-  transition: all .3s ease;
-  -webkit-transition: all .3s ease;
-  width: 0;
-}
-a::before {
-  left: 50%;
-}
-a::after {
-  right: 50%;
-}
-a:hover::before,
-a:hover::after {
-  width: 50%;
-}
-*/
