@@ -17,3 +17,7 @@ footer {
   color: #ffffff;
   border-bottom: solid 3px #ffffff;
 }
+
+.textcenter {
+  text-align: center;
+}
