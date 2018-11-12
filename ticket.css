@@ -1,8 +1,9 @@
-<style>
+
 body{
   background-image:url("風景2.jpg");
   background-size:cover;  
 }
+<style>
 div{
   text-align: center
 }
@@ -13,10 +14,10 @@ h1:first-letter{
   font-size:1.8em;
 }
 .holiday{
-  color: rgba(91,41,255,0.6)
+  color: rgba(91,41,255,0.3)
 }
 .weekday{
-  color: rgba(247,52,52,0.6)
+  color: rgba(247,52,52,0.3)
 }
 </style>
   
